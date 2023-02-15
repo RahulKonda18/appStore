@@ -1,0 +1,12 @@
+.selected {
+  color: blue;
+  border-bottom: 2px solid blue;
+  text-align: center;
+  width: 100px;
+  cursor: pointer;
+}
+.none {
+  width: 100px;
+  text-align: center;
+  cursor: pointer;
+}
